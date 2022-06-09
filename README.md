@@ -23,8 +23,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 Coming soon...  
-- Solution URL: [[Add solution URL here](https://your-solution-url.com)](https://github.com/LaurieGinale/Frontend-Mentor-Challenge-stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://your-solution-url.com
+- Live Site URL: https://laurieginale.github.io/Frontend-Mentor-Challenge-stats-preview-card-component/
 
 ## My process
 
