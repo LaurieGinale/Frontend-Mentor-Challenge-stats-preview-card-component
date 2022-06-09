@@ -17,7 +17,7 @@
 }
 
 body {
-    font-size: 62.5%;
+    font-size: 0.9375rem;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     background-color: var(--very-dark-blue);
@@ -25,11 +25,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 5rem 1.5rem;
 
 }
 
 .container {
-    margin: auto 50px;
     background-color: var(--dark-desaturated-blue);
     border-radius: 0.625rem;
     overflow: hidden;
@@ -50,6 +50,7 @@ body {
 
 img {
     width: 100%;
+    height: auto;
     mix-blend-mode: multiply;
     opacity: 0.75;
     vertical-align: bottom;
@@ -86,6 +87,11 @@ p {
     flex-direction: column;
 }
 
+li {
+    display: flex;
+    flex-direction: column;
+}
+
 @media screen and (min-width: 400px) {
     .statistics {
         flex-direction: row;
@@ -93,7 +99,7 @@ p {
     }
 }
 
-ul {
+li {
     list-style-type: none;
     text-align: center;
     line-height: 1.7rem;
