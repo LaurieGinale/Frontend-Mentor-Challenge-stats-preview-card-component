@@ -23,7 +23,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 Coming soon...  
-- Solution URL: https://your-solution-url.com
+- Solution URL: https://github.com/LaurieGinale/Frontend-Mentor-Challenge-stats-preview-card-component
 - Live Site URL: https://laurieginale.github.io/Frontend-Mentor-Challenge-stats-preview-card-component/
 
 ## My process
